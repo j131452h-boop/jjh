@@ -1,0 +1,15 @@
+#OS
+Thumbs.db
+desktop.ini
+
+#IDE
+.vscode/
+.idea/
+
+#Node/Python 等
+node_modules/
+__pycache__/
+*.pyc
+
+# logs
+*.log
